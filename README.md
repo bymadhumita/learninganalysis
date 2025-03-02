@@ -1,9 +1,14 @@
-# learninganalysis
 
-1.calculate the monthly sales of the store and identify which month had the highest sales and which month had lowest sales
-2.analyse sales based on product categories and deteermine which category has the highest sale
-sales anlysis based on sub categories
-monthly profit from sales and determine which month had the highest profit
-profit by category and subcategory
-sales and profit by customer segment
-sales to profit ratio
+Data-driven decision-making is key to understanding business performance. I recently conducted an exploratory data analysis (EDA) on an e-commerce sales dataset using Python.
+
+In this analysis, I:
+✔️ Analyzed monthly sales and identified peak and low sales periods.
+✔️ Examined sales and profit distribution across product categories and subcategories.
+✔️ Evaluated customer segments to determine their impact on revenue.
+✔️ Calculated the sales-to-profit ratio for better financial insights.
+
+By leveraging Pandas, Plotly, and other Python libraries, I was able to extract meaningful insights and visualize trends effectively.
+
+I have compiled the findings into a structured PDF report, which you can check out here. Looking forward to feedback and discussions!
+
+#DataAnalytics #Python #EDA #Ecommerce #DataScience
